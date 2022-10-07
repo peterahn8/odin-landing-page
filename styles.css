@@ -137,6 +137,7 @@ li {
   font-weight: lighter;
   font-style: italic;
   color: #1F2937;
+  margin-bottom: 10px;
 }
 .quote-attribution {
   margin-left: auto;
@@ -150,7 +151,8 @@ li {
   justify-content: center;
   align-items: center;
   background: #3882F6;
-  margin: 75px 300px;
+  width: fit-content;
+  margin: 75px auto;
   padding: 30px;
   border-radius: 10px;
 }
